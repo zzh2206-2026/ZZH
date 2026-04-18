@@ -1,0 +1,20 @@
+﻿{"sessionId":"6bc8f2","hypothesisId":"H1","location":"C:\Users\ASUS\Desktop\C++大作业\build_and_run.bat","message":"bat lineendings in first 500B","data":{"crlf":16,"size":2655,"lf":0},"timestamp":1776510876621}
+{"sessionId":"6bc8f2","hypothesisId":"H1","location":"D:\dev\C++大作业\build_and_run.bat","message":"bat not found","data":{},"timestamp":1776510876630}
+{"sessionId":"6bc8f2","hypothesisId":"H2","location":"C:\Users\ASUS\Desktop\C++大作业\src\Player.cpp","message":"Player.cpp key markers","data":{"hasHoldSpace":true,"hasOldHandleInput":false,"mtime":"2026-04-18T18:47:47","bytes":4310,"hasFeetProbe":true},"timestamp":1776510876636}
+{"sessionId":"6bc8f2","hypothesisId":"H2","location":"D:\dev\C++大作业\src\Player.cpp","message":"Player.cpp not found","data":{},"timestamp":1776510876637}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"C:\Users\ASUS\Desktop\C++大作业\build","message":"exists","data":{"isDir":true,"mtime":"2026-04-18T19:02:54"},"timestamp":1776510876640}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"C:\Users\ASUS\Desktop\C++大作业\out\build","message":"exists","data":{"isDir":true,"mtime":"2026-04-18T11:12:11"},"timestamp":1776510876642}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"C:\Users\ASUS\Desktop\C++大作业\build\CMakeCache.txt","message":"exists","data":{"isDir":false,"mtime":"2026-04-18T16:59:09"},"timestamp":1776510876643}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"C:\Users\ASUS\Desktop\C++大作业\out\build\x64-Debug\CMakeCache.txt","message":"exists","data":{"isDir":false,"mtime":"2026-04-18T15:47:02"},"timestamp":1776510876644}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"D:\dev\C++大作业\build","message":"absent","data":{},"timestamp":1776510876645}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"D:\dev\C++大作业\out\build","message":"absent","data":{},"timestamp":1776510876646}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"D:\dev\C++大作业\build\CMakeCache.txt","message":"absent","data":{},"timestamp":1776510876646}
+{"sessionId":"6bc8f2","hypothesisId":"H3H4","location":"D:\dev\C++大作业\out\build\x64-Debug\CMakeCache.txt","message":"absent","data":{},"timestamp":1776510876648}
+{"sessionId":"6bc8f2","hypothesisId":"H5","location":"C:\Users\ASUS\Desktop\C++大作业\third_party\sfml\CMakeLists.txt","message":"offline sfml present?","data":{"exists":false},"timestamp":1776510876649}
+{"sessionId":"6bc8f2","hypothesisId":"H5","location":"D:\dev\C++大作业\third_party\sfml\CMakeLists.txt","message":"offline sfml present?","data":{"exists":false},"timestamp":1776510876650}
+{"sessionId":"6bc8f2","hypothesisId":"Hnow","location":"C:\Users\ASUS\Desktop\C++大作业\build\Release\star_yuan_game.exe","message":"exe exists","data":{"size":80896,"mtime":"2026-04-18T18:56:41"},"timestamp":1776510966779}
+{"sessionId":"6bc8f2","hypothesisId":"Hnow","location":"C:\Users\ASUS\Desktop\C++大作业\build\CMakeCache.txt","message":"source dir in cache","data":{"line":"CMAKE_HOME_DIRECTORY:INTERNAL=C:/Users/ASUS/Desktop/C++大作业"},"timestamp":1776510966794}
+{"sessionId":"6bc8f2","hypothesisId":"Hnow","location":"C:\Users\ASUS\Desktop\C++大作业\build\Release\sfml-system-2.dll","message":"dll present","data":{"exists":true},"timestamp":1776510966797}
+{"sessionId":"6bc8f2","hypothesisId":"Hnow","location":"C:\Users\ASUS\Desktop\C++大作业\build\Release\sfml-window-2.dll","message":"dll present","data":{"exists":true},"timestamp":1776510966798}
+{"sessionId":"6bc8f2","hypothesisId":"Hnow","location":"C:\Users\ASUS\Desktop\C++大作业\build\Release\sfml-graphics-2.dll","message":"dll present","data":{"exists":true},"timestamp":1776510966798}
+{"sessionId":"6bc8f2","hypothesisId":"Hrun","location":"star_yuan_game.exe","message":"launched from Release","data":{"hasExited":false,"pid":51336,"alive":true,"ws":71168000},"timestamp":1776511044729}
